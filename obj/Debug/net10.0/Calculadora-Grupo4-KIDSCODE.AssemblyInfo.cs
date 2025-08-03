@@ -13,7 +13,6 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora-Grupo4-KIDSCODE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d9d36d2233bf720cb6f97ea07561eeab5b9025a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora-Grupo4-KIDSCODE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora-Grupo4-KIDSCODE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
