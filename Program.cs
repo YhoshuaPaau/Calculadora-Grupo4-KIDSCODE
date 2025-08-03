@@ -46,5 +46,46 @@ class Program
         double resultado = operacion(num1, num2);
         Console.WriteLine("El resultado es: " + resultado);
     }
+    // Métodos para las operaciones
+    static double Sumar(double a, double b) => a + b;
+    static double Restar(double a, double b) => a - b;
+    static double Multiplicar(double a, double b) => a * b;
+    static double Dividir(double a, double b) => a / b;
 
+    // Método para manejar la división por cero
+    static double Dividir(double a, double b)
+    {
+        if (b == 0)
+        {
+            Console.WriteLine("Error: División por cero no permitida.");
+            return double.NaN; // Retorna Not a Number
+        }
+        return a / b;
+    }
+
+    //Metodo para cuando ingresen un valor no numérico
+    static double LeerNumero()
+    {
+        double numero;
+        while (true)
+        {
+            if (double.TryParse(Console.ReadLine(), out numero))
+            {
+                return numero;
+            }
+            else
+            {
+                Console.Write("Entrada no válida. Por favor, ingrese un número: ");
+            }
+        }
+    }
+
+    // metodo para regresar al menú principal
+    static void RegresarAlMenu()
+    {
+        Console.WriteLine("Presione cualquier tecla para regresar al menú principal...");
+        Console.ReadKey();
+        Main(); // Llama al método Main para reiniciar el programa
+    }   
+    
 }
