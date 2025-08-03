@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\bin\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.exe
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\bin\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.deps.json
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\bin\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.runtimeconfig.json
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\bin\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.dll
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\bin\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.pdb
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.AssemblyInfo.cs
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.sourcelink.json
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.dll
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\refint\Calculadora-Grupo4-KIDSCODE.dll
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.pdb
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\Calculadora-Grupo4-KIDSCODE.genruntimeconfig.cache
+C:\Users\user\Desktop\PRACTICAGIT\Calculadora-Grupo4-KIDSCODE\obj\Debug\net10.0\ref\Calculadora-Grupo4-KIDSCODE.dll

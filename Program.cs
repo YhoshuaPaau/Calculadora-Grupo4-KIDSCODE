@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Menu de la calculadora
         Console.WriteLine("Bienvenido a la Calculadora");
         Console.WriteLine("1. Suma");
         Console.WriteLine("2. Resta");
@@ -14,7 +13,7 @@ class Program
 
         int opcion = int.Parse(Console.ReadLine());
 
-// Ejecutar la operación seleccionada
+        // Ejecutar la operación seleccionada
         switch (opcion)
         {
             case 1:
@@ -36,7 +35,7 @@ class Program
     }
 
 
-// Método para realizar la operación seleccionada
+    // Método para realizar la operación seleccionada
     static void RealizarOperacion(Func<double, double, double> operacion)
     {
         Console.Write("Ingrese el primer número: ");
@@ -48,3 +47,4 @@ class Program
         Console.WriteLine("El resultado es: " + resultado);
     }
 
+}
