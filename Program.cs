@@ -12,10 +12,35 @@ class Program
         Console.Write("Seleccione una opción: ");
 
         int opcion = int.Parse(Console.ReadLine());
-        // TODO: Implementar la lógica de menú
+
+        switch (opcion)
+        {
+            case 1:
+                RealizarOperacion(Sumar);
+                break;
+            case 2:
+                RealizarOperacion(Restar);
+                break;
+            case 3:
+                RealizarOperacion(Multiplicar);
+                break;
+            case 4:
+                RealizarOperacion(Dividir);
+                break;
+            default:
+                Console.WriteLine("Opción no válida");
+                break;
+        }
     }
 
-    // TODO: Implementar funciones de suma, resta, multiplicación, división
+    static void RealizarOperacion(Func<double, double, double> operacion)
+    {
+        Console.Write("Ingrese el primer número: ");
+        double num1 = double.Parse(Console.ReadLine());
+        Console.Write("Ingrese el segundo número: ");
+        double num2 = double.Parse(Console.ReadLine());
 
-    // comentario Diego
-}
+        double resultado = operacion(num1, num2);
+        Console.WriteLine("El resultado es: " + resultado);
+    }
+
