@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Bienvenido a la Calculadora");
+        Console.WriteLine("Bienvenido a la Calculadora del grupo 4, por favor elija una operación:");
         Console.WriteLine("1. Suma");
         Console.WriteLine("2. Resta");
         Console.WriteLine("3. Multiplicación");
