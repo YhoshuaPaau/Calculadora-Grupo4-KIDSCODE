@@ -13,6 +13,7 @@ class Program
 
         int opcion = int.Parse(Console.ReadLine());
 
+        // Ejecutar la operación seleccionada
         switch (opcion)
         {
             case 1:
@@ -33,6 +34,8 @@ class Program
         }
     }
 
+
+    // Método para realizar la operación seleccionada
     static void RealizarOperacion(Func<double, double, double> operacion)
     {
         Console.Write("Ingrese el primer número: ");
@@ -44,8 +47,4 @@ class Program
         Console.WriteLine("El resultado es: " + resultado);
     }
 
-    static double Sumar(double a, double b) => a + b;
-    static double Restar(double a, double b) => a - b;
-    static double Multiplicar(double a, double b) => a * b;
-    static double Dividir(double a, double b) => a / b;
 }
